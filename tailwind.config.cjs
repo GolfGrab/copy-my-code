@@ -14,4 +14,7 @@ module.exports = {
     require('tailwind-highlightjs'),
     require("daisyui")
   ],
+  daisyui: {
+    darkTheme: "dracula",
+  },
 };
